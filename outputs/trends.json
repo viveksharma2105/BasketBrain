@@ -1,0 +1,1028 @@
+{
+  "hour": [
+    {
+      "label": "00:00",
+      "views": 9419,
+      "carts": 249,
+      "purchases": 106
+    },
+    {
+      "label": "01:00",
+      "views": 9594,
+      "carts": 269,
+      "purchases": 90
+    },
+    {
+      "label": "02:00",
+      "views": 9362,
+      "carts": 308,
+      "purchases": 105
+    },
+    {
+      "label": "03:00",
+      "views": 8987,
+      "carts": 281,
+      "purchases": 116
+    },
+    {
+      "label": "04:00",
+      "views": 8379,
+      "carts": 221,
+      "purchases": 76
+    },
+    {
+      "label": "05:00",
+      "views": 7577,
+      "carts": 250,
+      "purchases": 68
+    },
+    {
+      "label": "06:00",
+      "views": 7021,
+      "carts": 221,
+      "purchases": 43
+    },
+    {
+      "label": "07:00",
+      "views": 6587,
+      "carts": 144,
+      "purchases": 47
+    },
+    {
+      "label": "08:00",
+      "views": 6965,
+      "carts": 172,
+      "purchases": 56
+    },
+    {
+      "label": "09:00",
+      "views": 7337,
+      "carts": 147,
+      "purchases": 76
+    },
+    {
+      "label": "10:00",
+      "views": 6450,
+      "carts": 135,
+      "purchases": 30
+    },
+    {
+      "label": "11:00",
+      "views": 4998,
+      "carts": 139,
+      "purchases": 36
+    },
+    {
+      "label": "12:00",
+      "views": 3021,
+      "carts": 73,
+      "purchases": 26
+    },
+    {
+      "label": "13:00",
+      "views": 1671,
+      "carts": 30,
+      "purchases": 10
+    },
+    {
+      "label": "14:00",
+      "views": 1098,
+      "carts": 23,
+      "purchases": 4
+    },
+    {
+      "label": "15:00",
+      "views": 839,
+      "carts": 14,
+      "purchases": 5
+    },
+    {
+      "label": "16:00",
+      "views": 813,
+      "carts": 13,
+      "purchases": 2
+    },
+    {
+      "label": "17:00",
+      "views": 1111,
+      "carts": 11,
+      "purchases": 1
+    },
+    {
+      "label": "18:00",
+      "views": 1834,
+      "carts": 54,
+      "purchases": 9
+    },
+    {
+      "label": "19:00",
+      "views": 3107,
+      "carts": 63,
+      "purchases": 16
+    },
+    {
+      "label": "20:00",
+      "views": 4985,
+      "carts": 172,
+      "purchases": 43
+    },
+    {
+      "label": "21:00",
+      "views": 7284,
+      "carts": 251,
+      "purchases": 72
+    },
+    {
+      "label": "22:00",
+      "views": 8589,
+      "carts": 245,
+      "purchases": 105
+    },
+    {
+      "label": "23:00",
+      "views": 9083,
+      "carts": 258,
+      "purchases": 132
+    }
+  ],
+  "day": [
+    {
+      "label": "2015-05-03",
+      "views": 344,
+      "carts": 3,
+      "purchases": 1
+    },
+    {
+      "label": "2015-05-04",
+      "views": 865,
+      "carts": 17,
+      "purchases": 2
+    },
+    {
+      "label": "2015-05-05",
+      "views": 1007,
+      "carts": 25,
+      "purchases": 12
+    },
+    {
+      "label": "2015-05-06",
+      "views": 1130,
+      "carts": 41,
+      "purchases": 19
+    },
+    {
+      "label": "2015-05-07",
+      "views": 1194,
+      "carts": 43,
+      "purchases": 25
+    },
+    {
+      "label": "2015-05-08",
+      "views": 1074,
+      "carts": 33,
+      "purchases": 15
+    },
+    {
+      "label": "2015-05-09",
+      "views": 803,
+      "carts": 20,
+      "purchases": 4
+    },
+    {
+      "label": "2015-05-10",
+      "views": 562,
+      "carts": 0,
+      "purchases": 0
+    },
+    {
+      "label": "2015-05-11",
+      "views": 635,
+      "carts": 17,
+      "purchases": 2
+    },
+    {
+      "label": "2015-05-12",
+      "views": 887,
+      "carts": 25,
+      "purchases": 6
+    },
+    {
+      "label": "2015-05-13",
+      "views": 1161,
+      "carts": 53,
+      "purchases": 20
+    },
+    {
+      "label": "2015-05-14",
+      "views": 1214,
+      "carts": 42,
+      "purchases": 9
+    },
+    {
+      "label": "2015-05-15",
+      "views": 1197,
+      "carts": 24,
+      "purchases": 9
+    },
+    {
+      "label": "2015-05-16",
+      "views": 1056,
+      "carts": 17,
+      "purchases": 6
+    },
+    {
+      "label": "2015-05-17",
+      "views": 1028,
+      "carts": 25,
+      "purchases": 4
+    },
+    {
+      "label": "2015-05-18",
+      "views": 1178,
+      "carts": 26,
+      "purchases": 12
+    },
+    {
+      "label": "2015-05-19",
+      "views": 1367,
+      "carts": 36,
+      "purchases": 19
+    },
+    {
+      "label": "2015-05-20",
+      "views": 1233,
+      "carts": 19,
+      "purchases": 9
+    },
+    {
+      "label": "2015-05-21",
+      "views": 1014,
+      "carts": 23,
+      "purchases": 6
+    },
+    {
+      "label": "2015-05-22",
+      "views": 1006,
+      "carts": 21,
+      "purchases": 4
+    },
+    {
+      "label": "2015-05-23",
+      "views": 836,
+      "carts": 9,
+      "purchases": 1
+    },
+    {
+      "label": "2015-05-24",
+      "views": 794,
+      "carts": 16,
+      "purchases": 5
+    },
+    {
+      "label": "2015-05-25",
+      "views": 953,
+      "carts": 28,
+      "purchases": 8
+    },
+    {
+      "label": "2015-05-26",
+      "views": 1342,
+      "carts": 41,
+      "purchases": 20
+    },
+    {
+      "label": "2015-05-27",
+      "views": 1038,
+      "carts": 20,
+      "purchases": 10
+    },
+    {
+      "label": "2015-05-28",
+      "views": 1253,
+      "carts": 55,
+      "purchases": 22
+    },
+    {
+      "label": "2015-05-29",
+      "views": 1163,
+      "carts": 30,
+      "purchases": 10
+    },
+    {
+      "label": "2015-05-30",
+      "views": 851,
+      "carts": 19,
+      "purchases": 11
+    },
+    {
+      "label": "2015-05-31",
+      "views": 673,
+      "carts": 22,
+      "purchases": 2
+    },
+    {
+      "label": "2015-06-01",
+      "views": 957,
+      "carts": 20,
+      "purchases": 12
+    },
+    {
+      "label": "2015-06-02",
+      "views": 1272,
+      "carts": 31,
+      "purchases": 10
+    },
+    {
+      "label": "2015-06-03",
+      "views": 1234,
+      "carts": 31,
+      "purchases": 14
+    },
+    {
+      "label": "2015-06-04",
+      "views": 1243,
+      "carts": 36,
+      "purchases": 15
+    },
+    {
+      "label": "2015-06-05",
+      "views": 1190,
+      "carts": 45,
+      "purchases": 21
+    },
+    {
+      "label": "2015-06-06",
+      "views": 1063,
+      "carts": 60,
+      "purchases": 23
+    },
+    {
+      "label": "2015-06-07",
+      "views": 705,
+      "carts": 18,
+      "purchases": 8
+    },
+    {
+      "label": "2015-06-08",
+      "views": 980,
+      "carts": 47,
+      "purchases": 13
+    },
+    {
+      "label": "2015-06-09",
+      "views": 1165,
+      "carts": 31,
+      "purchases": 14
+    },
+    {
+      "label": "2015-06-10",
+      "views": 1152,
+      "carts": 41,
+      "purchases": 19
+    },
+    {
+      "label": "2015-06-11",
+      "views": 1291,
+      "carts": 47,
+      "purchases": 30
+    },
+    {
+      "label": "2015-06-12",
+      "views": 947,
+      "carts": 22,
+      "purchases": 8
+    },
+    {
+      "label": "2015-06-13",
+      "views": 740,
+      "carts": 16,
+      "purchases": 7
+    },
+    {
+      "label": "2015-06-14",
+      "views": 482,
+      "carts": 22,
+      "purchases": 4
+    },
+    {
+      "label": "2015-06-15",
+      "views": 845,
+      "carts": 32,
+      "purchases": 4
+    },
+    {
+      "label": "2015-06-16",
+      "views": 1245,
+      "carts": 41,
+      "purchases": 14
+    },
+    {
+      "label": "2015-06-17",
+      "views": 1252,
+      "carts": 50,
+      "purchases": 31
+    },
+    {
+      "label": "2015-06-18",
+      "views": 1243,
+      "carts": 40,
+      "purchases": 32
+    },
+    {
+      "label": "2015-06-19",
+      "views": 1064,
+      "carts": 24,
+      "purchases": 9
+    },
+    {
+      "label": "2015-06-20",
+      "views": 982,
+      "carts": 37,
+      "purchases": 32
+    },
+    {
+      "label": "2015-06-21",
+      "views": 670,
+      "carts": 10,
+      "purchases": 4
+    },
+    {
+      "label": "2015-06-22",
+      "views": 960,
+      "carts": 28,
+      "purchases": 9
+    },
+    {
+      "label": "2015-06-23",
+      "views": 1226,
+      "carts": 56,
+      "purchases": 34
+    },
+    {
+      "label": "2015-06-24",
+      "views": 1329,
+      "carts": 43,
+      "purchases": 30
+    },
+    {
+      "label": "2015-06-25",
+      "views": 1054,
+      "carts": 12,
+      "purchases": 2
+    },
+    {
+      "label": "2015-06-26",
+      "views": 1079,
+      "carts": 19,
+      "purchases": 9
+    },
+    {
+      "label": "2015-06-27",
+      "views": 859,
+      "carts": 25,
+      "purchases": 4
+    },
+    {
+      "label": "2015-06-28",
+      "views": 725,
+      "carts": 9,
+      "purchases": 0
+    },
+    {
+      "label": "2015-06-29",
+      "views": 1055,
+      "carts": 19,
+      "purchases": 11
+    },
+    {
+      "label": "2015-06-30",
+      "views": 1143,
+      "carts": 14,
+      "purchases": 6
+    },
+    {
+      "label": "2015-07-01",
+      "views": 1091,
+      "carts": 14,
+      "purchases": 2
+    },
+    {
+      "label": "2015-07-02",
+      "views": 1072,
+      "carts": 13,
+      "purchases": 4
+    },
+    {
+      "label": "2015-07-03",
+      "views": 1091,
+      "carts": 11,
+      "purchases": 3
+    },
+    {
+      "label": "2015-07-04",
+      "views": 772,
+      "carts": 28,
+      "purchases": 7
+    },
+    {
+      "label": "2015-07-05",
+      "views": 845,
+      "carts": 98,
+      "purchases": 9
+    },
+    {
+      "label": "2015-07-06",
+      "views": 810,
+      "carts": 19,
+      "purchases": 17
+    },
+    {
+      "label": "2015-07-07",
+      "views": 1203,
+      "carts": 37,
+      "purchases": 12
+    },
+    {
+      "label": "2015-07-08",
+      "views": 1179,
+      "carts": 29,
+      "purchases": 9
+    },
+    {
+      "label": "2015-07-09",
+      "views": 1192,
+      "carts": 55,
+      "purchases": 6
+    },
+    {
+      "label": "2015-07-10",
+      "views": 1304,
+      "carts": 150,
+      "purchases": 11
+    },
+    {
+      "label": "2015-07-11",
+      "views": 1072,
+      "carts": 26,
+      "purchases": 7
+    },
+    {
+      "label": "2015-07-12",
+      "views": 1063,
+      "carts": 8,
+      "purchases": 0
+    },
+    {
+      "label": "2015-07-13",
+      "views": 1197,
+      "carts": 25,
+      "purchases": 14
+    },
+    {
+      "label": "2015-07-14",
+      "views": 1328,
+      "carts": 36,
+      "purchases": 10
+    },
+    {
+      "label": "2015-07-15",
+      "views": 1572,
+      "carts": 43,
+      "purchases": 8
+    },
+    {
+      "label": "2015-07-16",
+      "views": 1028,
+      "carts": 19,
+      "purchases": 7
+    },
+    {
+      "label": "2015-07-17",
+      "views": 914,
+      "carts": 21,
+      "purchases": 4
+    },
+    {
+      "label": "2015-07-18",
+      "views": 830,
+      "carts": 17,
+      "purchases": 8
+    },
+    {
+      "label": "2015-07-19",
+      "views": 745,
+      "carts": 11,
+      "purchases": 6
+    },
+    {
+      "label": "2015-07-20",
+      "views": 1042,
+      "carts": 19,
+      "purchases": 3
+    },
+    {
+      "label": "2015-07-21",
+      "views": 1188,
+      "carts": 30,
+      "purchases": 16
+    },
+    {
+      "label": "2015-07-22",
+      "views": 1268,
+      "carts": 66,
+      "purchases": 46
+    },
+    {
+      "label": "2015-07-23",
+      "views": 1319,
+      "carts": 55,
+      "purchases": 25
+    },
+    {
+      "label": "2015-07-24",
+      "views": 1230,
+      "carts": 47,
+      "purchases": 28
+    },
+    {
+      "label": "2015-07-25",
+      "views": 1093,
+      "carts": 22,
+      "purchases": 8
+    },
+    {
+      "label": "2015-07-26",
+      "views": 1394,
+      "carts": 16,
+      "purchases": 5
+    },
+    {
+      "label": "2015-07-27",
+      "views": 1437,
+      "carts": 39,
+      "purchases": 6
+    },
+    {
+      "label": "2015-07-28",
+      "views": 1073,
+      "carts": 38,
+      "purchases": 12
+    },
+    {
+      "label": "2015-07-29",
+      "views": 1173,
+      "carts": 30,
+      "purchases": 7
+    },
+    {
+      "label": "2015-07-30",
+      "views": 1029,
+      "carts": 19,
+      "purchases": 5
+    },
+    {
+      "label": "2015-07-31",
+      "views": 917,
+      "carts": 16,
+      "purchases": 10
+    },
+    {
+      "label": "2015-08-01",
+      "views": 949,
+      "carts": 26,
+      "purchases": 3
+    },
+    {
+      "label": "2015-08-02",
+      "views": 711,
+      "carts": 20,
+      "purchases": 3
+    },
+    {
+      "label": "2015-08-03",
+      "views": 830,
+      "carts": 26,
+      "purchases": 8
+    },
+    {
+      "label": "2015-08-04",
+      "views": 1045,
+      "carts": 23,
+      "purchases": 6
+    },
+    {
+      "label": "2015-08-05",
+      "views": 977,
+      "carts": 13,
+      "purchases": 6
+    },
+    {
+      "label": "2015-08-06",
+      "views": 1038,
+      "carts": 29,
+      "purchases": 9
+    },
+    {
+      "label": "2015-08-07",
+      "views": 843,
+      "carts": 12,
+      "purchases": 0
+    },
+    {
+      "label": "2015-08-08",
+      "views": 709,
+      "carts": 21,
+      "purchases": 2
+    },
+    {
+      "label": "2015-08-09",
+      "views": 651,
+      "carts": 9,
+      "purchases": 3
+    },
+    {
+      "label": "2015-08-10",
+      "views": 814,
+      "carts": 16,
+      "purchases": 8
+    },
+    {
+      "label": "2015-08-11",
+      "views": 1006,
+      "carts": 21,
+      "purchases": 7
+    },
+    {
+      "label": "2015-08-12",
+      "views": 839,
+      "carts": 8,
+      "purchases": 2
+    },
+    {
+      "label": "2015-08-13",
+      "views": 900,
+      "carts": 23,
+      "purchases": 4
+    },
+    {
+      "label": "2015-08-14",
+      "views": 856,
+      "carts": 14,
+      "purchases": 5
+    },
+    {
+      "label": "2015-08-15",
+      "views": 711,
+      "carts": 23,
+      "purchases": 2
+    },
+    {
+      "label": "2015-08-16",
+      "views": 631,
+      "carts": 7,
+      "purchases": 1
+    },
+    {
+      "label": "2015-08-17",
+      "views": 839,
+      "carts": 32,
+      "purchases": 6
+    },
+    {
+      "label": "2015-08-18",
+      "views": 1000,
+      "carts": 30,
+      "purchases": 4
+    },
+    {
+      "label": "2015-08-19",
+      "views": 940,
+      "carts": 28,
+      "purchases": 9
+    },
+    {
+      "label": "2015-08-20",
+      "views": 986,
+      "carts": 31,
+      "purchases": 12
+    },
+    {
+      "label": "2015-08-21",
+      "views": 847,
+      "carts": 22,
+      "purchases": 2
+    },
+    {
+      "label": "2015-08-22",
+      "views": 747,
+      "carts": 19,
+      "purchases": 6
+    },
+    {
+      "label": "2015-08-23",
+      "views": 674,
+      "carts": 11,
+      "purchases": 1
+    },
+    {
+      "label": "2015-08-24",
+      "views": 878,
+      "carts": 23,
+      "purchases": 4
+    },
+    {
+      "label": "2015-08-25",
+      "views": 917,
+      "carts": 31,
+      "purchases": 11
+    },
+    {
+      "label": "2015-08-26",
+      "views": 905,
+      "carts": 12,
+      "purchases": 3
+    },
+    {
+      "label": "2015-08-27",
+      "views": 979,
+      "carts": 24,
+      "purchases": 3
+    },
+    {
+      "label": "2015-08-28",
+      "views": 984,
+      "carts": 26,
+      "purchases": 2
+    },
+    {
+      "label": "2015-08-29",
+      "views": 925,
+      "carts": 33,
+      "purchases": 4
+    },
+    {
+      "label": "2015-08-30",
+      "views": 706,
+      "carts": 17,
+      "purchases": 6
+    },
+    {
+      "label": "2015-08-31",
+      "views": 832,
+      "carts": 13,
+      "purchases": 8
+    },
+    {
+      "label": "2015-09-01",
+      "views": 827,
+      "carts": 19,
+      "purchases": 14
+    },
+    {
+      "label": "2015-09-02",
+      "views": 818,
+      "carts": 21,
+      "purchases": 6
+    },
+    {
+      "label": "2015-09-03",
+      "views": 914,
+      "carts": 18,
+      "purchases": 2
+    },
+    {
+      "label": "2015-09-04",
+      "views": 869,
+      "carts": 23,
+      "purchases": 4
+    },
+    {
+      "label": "2015-09-05",
+      "views": 676,
+      "carts": 9,
+      "purchases": 5
+    },
+    {
+      "label": "2015-09-06",
+      "views": 654,
+      "carts": 12,
+      "purchases": 5
+    },
+    {
+      "label": "2015-09-07",
+      "views": 743,
+      "carts": 26,
+      "purchases": 3
+    },
+    {
+      "label": "2015-09-08",
+      "views": 937,
+      "carts": 43,
+      "purchases": 6
+    },
+    {
+      "label": "2015-09-09",
+      "views": 1208,
+      "carts": 23,
+      "purchases": 6
+    },
+    {
+      "label": "2015-09-10",
+      "views": 990,
+      "carts": 23,
+      "purchases": 11
+    },
+    {
+      "label": "2015-09-11",
+      "views": 1110,
+      "carts": 19,
+      "purchases": 8
+    },
+    {
+      "label": "2015-09-12",
+      "views": 923,
+      "carts": 14,
+      "purchases": 8
+    },
+    {
+      "label": "2015-09-13",
+      "views": 822,
+      "carts": 42,
+      "purchases": 3
+    },
+    {
+      "label": "2015-09-14",
+      "views": 994,
+      "carts": 23,
+      "purchases": 4
+    },
+    {
+      "label": "2015-09-15",
+      "views": 1061,
+      "carts": 22,
+      "purchases": 9
+    },
+    {
+      "label": "2015-09-16",
+      "views": 677,
+      "carts": 17,
+      "purchases": 8
+    },
+    {
+      "label": "2015-09-17",
+      "views": 448,
+      "carts": 9,
+      "purchases": 4
+    },
+    {
+      "label": "2015-09-18",
+      "views": 290,
+      "carts": 4,
+      "purchases": 1
+    }
+  ],
+  "weekday": [
+    {
+      "label": "Sunday",
+      "views": 14879,
+      "carts": 376,
+      "purchases": 70
+    },
+    {
+      "label": "Monday",
+      "views": 18844,
+      "carts": 495,
+      "purchases": 154
+    },
+    {
+      "label": "Tuesday",
+      "views": 22239,
+      "carts": 630,
+      "purchases": 242
+    },
+    {
+      "label": "Wednesday",
+      "views": 22176,
+      "carts": 602,
+      "purchases": 264
+    },
+    {
+      "label": "Thursday",
+      "views": 21401,
+      "carts": 616,
+      "purchases": 233
+    },
+    {
+      "label": "Friday",
+      "views": 19975,
+      "carts": 583,
+      "purchases": 163
+    },
+    {
+      "label": "Saturday",
+      "views": 16597,
+      "carts": 441,
+      "purchases": 148
+    }
+  ]
+}

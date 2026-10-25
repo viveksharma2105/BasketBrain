@@ -1,0 +1,1945 @@
+{
+  "76757": {
+    "visitor_id": 76757,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 399192,
+        "categoryid": 196,
+        "score": 3.997,
+        "reason": "Collaborative match based on behavior in category 196"
+      },
+      {
+        "itemid": 336855,
+        "categoryid": 333,
+        "score": 3.265,
+        "reason": "Collaborative match based on behavior in category 333"
+      },
+      {
+        "itemid": 32591,
+        "categoryid": 618,
+        "score": 2.688,
+        "reason": "Collaborative match based on behavior in category 618"
+      },
+      {
+        "itemid": 130644,
+        "categoryid": 1578,
+        "score": 2.683,
+        "reason": "Collaborative match based on behavior in category 1578"
+      },
+      {
+        "itemid": 465951,
+        "categoryid": 1051,
+        "score": 2.674,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 333566,
+        "categoryid": 1051,
+        "score": 2.65,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 185017,
+        "categoryid": 1384,
+        "score": 2.638,
+        "reason": "Collaborative match based on behavior in category 1384"
+      },
+      {
+        "itemid": 127969,
+        "categoryid": 1051,
+        "score": 2.55,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 299440,
+        "categoryid": 1359,
+        "score": 2.462,
+        "reason": "Collaborative match based on behavior in category 1359"
+      },
+      {
+        "itemid": 50221,
+        "categoryid": 1542,
+        "score": 2.436,
+        "reason": "Collaborative match based on behavior in category 1542"
+      }
+    ]
+  },
+  "638482": {
+    "visitor_id": 638482,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 399192,
+        "categoryid": 196,
+        "score": 3.491,
+        "reason": "Collaborative match based on behavior in category 196"
+      },
+      {
+        "itemid": 336855,
+        "categoryid": 333,
+        "score": 2.85,
+        "reason": "Collaborative match based on behavior in category 333"
+      },
+      {
+        "itemid": 32591,
+        "categoryid": 618,
+        "score": 2.348,
+        "reason": "Collaborative match based on behavior in category 618"
+      },
+      {
+        "itemid": 130644,
+        "categoryid": 1578,
+        "score": 2.343,
+        "reason": "Collaborative match based on behavior in category 1578"
+      },
+      {
+        "itemid": 333566,
+        "categoryid": 1051,
+        "score": 2.312,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 185017,
+        "categoryid": 1384,
+        "score": 2.303,
+        "reason": "Collaborative match based on behavior in category 1384"
+      },
+      {
+        "itemid": 465951,
+        "categoryid": 1051,
+        "score": 2.295,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 127969,
+        "categoryid": 1051,
+        "score": 2.158,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 299440,
+        "categoryid": 1359,
+        "score": 2.15,
+        "reason": "Collaborative match based on behavior in category 1359"
+      },
+      {
+        "itemid": 50221,
+        "categoryid": 1542,
+        "score": 2.127,
+        "reason": "Collaborative match based on behavior in category 1542"
+      }
+    ]
+  },
+  "757355": {
+    "visitor_id": 757355,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 247326,
+        "categoryid": 921,
+        "score": 3.678,
+        "reason": "Collaborative match based on behavior in category 921"
+      },
+      {
+        "itemid": 109589,
+        "categoryid": 1205,
+        "score": 3.416,
+        "reason": "Collaborative match based on behavior in category 1205"
+      },
+      {
+        "itemid": 272907,
+        "categoryid": 1529,
+        "score": 3.413,
+        "reason": "Collaborative match based on behavior in category 1529"
+      },
+      {
+        "itemid": 193968,
+        "categoryid": 646,
+        "score": 3.397,
+        "reason": "Collaborative match based on behavior in category 646"
+      },
+      {
+        "itemid": 277276,
+        "categoryid": 1172,
+        "score": 3.237,
+        "reason": "Collaborative match based on behavior in category 1172"
+      },
+      {
+        "itemid": 344071,
+        "categoryid": 589,
+        "score": 3.047,
+        "reason": "Collaborative match based on behavior in category 589"
+      },
+      {
+        "itemid": 309821,
+        "categoryid": 56,
+        "score": 3.031,
+        "reason": "Collaborative match based on behavior in category 56"
+      },
+      {
+        "itemid": 96924,
+        "categoryid": 56,
+        "score": 3.023,
+        "reason": "Collaborative match based on behavior in category 56"
+      },
+      {
+        "itemid": 459056,
+        "categoryid": 1089,
+        "score": 3.023,
+        "reason": "Collaborative match based on behavior in category 1089"
+      },
+      {
+        "itemid": 11226,
+        "categoryid": 687,
+        "score": 2.982,
+        "reason": "Collaborative match based on behavior in category 687"
+      }
+    ]
+  },
+  "77390": {
+    "visitor_id": 77390,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 440912,
+        "categoryid": 914,
+        "score": 2.702,
+        "reason": "Collaborative match based on behavior in category 914"
+      },
+      {
+        "itemid": 33388,
+        "categoryid": 1666,
+        "score": 2.624,
+        "reason": "Collaborative match based on behavior in category 1666"
+      },
+      {
+        "itemid": 112211,
+        "categoryid": 683,
+        "score": 2.505,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 374996,
+        "categoryid": 1135,
+        "score": 2.502,
+        "reason": "Collaborative match based on behavior in category 1135"
+      },
+      {
+        "itemid": 203043,
+        "categoryid": 1163,
+        "score": 2.502,
+        "reason": "Collaborative match based on behavior in category 1163"
+      },
+      {
+        "itemid": 141157,
+        "categoryid": 979,
+        "score": 2.438,
+        "reason": "Collaborative match based on behavior in category 979"
+      },
+      {
+        "itemid": 104432,
+        "categoryid": -1,
+        "score": 2.341,
+        "reason": "Collaborative match based on behavior in category -1"
+      },
+      {
+        "itemid": 449280,
+        "categoryid": 1173,
+        "score": 2.339,
+        "reason": "Collaborative match based on behavior in category 1173"
+      },
+      {
+        "itemid": 83175,
+        "categoryid": 973,
+        "score": 2.277,
+        "reason": "Collaborative match based on behavior in category 973"
+      },
+      {
+        "itemid": 215868,
+        "categoryid": 895,
+        "score": 2.176,
+        "reason": "Collaborative match based on behavior in category 895"
+      }
+    ]
+  },
+  "38015": {
+    "visitor_id": 38015,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 440912,
+        "categoryid": 914,
+        "score": 2.643,
+        "reason": "Collaborative match based on behavior in category 914"
+      },
+      {
+        "itemid": 33388,
+        "categoryid": 1666,
+        "score": 2.542,
+        "reason": "Collaborative match based on behavior in category 1666"
+      },
+      {
+        "itemid": 374996,
+        "categoryid": 1135,
+        "score": 2.443,
+        "reason": "Collaborative match based on behavior in category 1135"
+      },
+      {
+        "itemid": 112211,
+        "categoryid": 683,
+        "score": 2.426,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 203043,
+        "categoryid": 1163,
+        "score": 2.423,
+        "reason": "Collaborative match based on behavior in category 1163"
+      },
+      {
+        "itemid": 141157,
+        "categoryid": 979,
+        "score": 2.361,
+        "reason": "Collaborative match based on behavior in category 979"
+      },
+      {
+        "itemid": 449280,
+        "categoryid": 1173,
+        "score": 2.291,
+        "reason": "Collaborative match based on behavior in category 1173"
+      },
+      {
+        "itemid": 104432,
+        "categoryid": -1,
+        "score": 2.267,
+        "reason": "Collaborative match based on behavior in category -1"
+      },
+      {
+        "itemid": 83175,
+        "categoryid": 973,
+        "score": 2.242,
+        "reason": "Collaborative match based on behavior in category 973"
+      },
+      {
+        "itemid": 215868,
+        "categoryid": 895,
+        "score": 2.108,
+        "reason": "Collaborative match based on behavior in category 895"
+      }
+    ]
+  },
+  "468309": {
+    "visitor_id": 468309,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 399192,
+        "categoryid": 196,
+        "score": 2.819,
+        "reason": "Collaborative match based on behavior in category 196"
+      },
+      {
+        "itemid": 336855,
+        "categoryid": 333,
+        "score": 2.301,
+        "reason": "Collaborative match based on behavior in category 333"
+      },
+      {
+        "itemid": 32591,
+        "categoryid": 618,
+        "score": 1.896,
+        "reason": "Collaborative match based on behavior in category 618"
+      },
+      {
+        "itemid": 130644,
+        "categoryid": 1578,
+        "score": 1.892,
+        "reason": "Collaborative match based on behavior in category 1578"
+      },
+      {
+        "itemid": 333566,
+        "categoryid": 1051,
+        "score": 1.867,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 185017,
+        "categoryid": 1384,
+        "score": 1.86,
+        "reason": "Collaborative match based on behavior in category 1384"
+      },
+      {
+        "itemid": 465951,
+        "categoryid": 1051,
+        "score": 1.853,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 127969,
+        "categoryid": 1051,
+        "score": 1.742,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 299440,
+        "categoryid": 1359,
+        "score": 1.736,
+        "reason": "Collaborative match based on behavior in category 1359"
+      },
+      {
+        "itemid": 50221,
+        "categoryid": 1542,
+        "score": 1.718,
+        "reason": "Collaborative match based on behavior in category 1542"
+      }
+    ]
+  },
+  "1093035": {
+    "visitor_id": 1093035,
+    "segment": "Active Window Shoppers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 440912,
+        "categoryid": 914,
+        "score": 2.248,
+        "reason": "Collaborative match based on behavior in category 914"
+      },
+      {
+        "itemid": 33388,
+        "categoryid": 1666,
+        "score": 2.188,
+        "reason": "Collaborative match based on behavior in category 1666"
+      },
+      {
+        "itemid": 374996,
+        "categoryid": 1135,
+        "score": 2.144,
+        "reason": "Collaborative match based on behavior in category 1135"
+      },
+      {
+        "itemid": 112211,
+        "categoryid": 683,
+        "score": 2.088,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 203043,
+        "categoryid": 1163,
+        "score": 2.086,
+        "reason": "Collaborative match based on behavior in category 1163"
+      },
+      {
+        "itemid": 141157,
+        "categoryid": 979,
+        "score": 2.032,
+        "reason": "Collaborative match based on behavior in category 979"
+      },
+      {
+        "itemid": 104432,
+        "categoryid": -1,
+        "score": 1.952,
+        "reason": "Collaborative match based on behavior in category -1"
+      },
+      {
+        "itemid": 449280,
+        "categoryid": 1173,
+        "score": 1.946,
+        "reason": "Collaborative match based on behavior in category 1173"
+      },
+      {
+        "itemid": 83175,
+        "categoryid": 973,
+        "score": 1.892,
+        "reason": "Collaborative match based on behavior in category 973"
+      },
+      {
+        "itemid": 215868,
+        "categoryid": 895,
+        "score": 1.814,
+        "reason": "Collaborative match based on behavior in category 895"
+      }
+    ]
+  },
+  "1313381": {
+    "visitor_id": 1313381,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 374996,
+        "categoryid": 1135,
+        "score": 2.131,
+        "reason": "Collaborative match based on behavior in category 1135"
+      },
+      {
+        "itemid": 440912,
+        "categoryid": 914,
+        "score": 2.018,
+        "reason": "Collaborative match based on behavior in category 914"
+      },
+      {
+        "itemid": 33388,
+        "categoryid": 1666,
+        "score": 1.966,
+        "reason": "Collaborative match based on behavior in category 1666"
+      },
+      {
+        "itemid": 112211,
+        "categoryid": 683,
+        "score": 1.877,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 203043,
+        "categoryid": 1163,
+        "score": 1.875,
+        "reason": "Collaborative match based on behavior in category 1163"
+      },
+      {
+        "itemid": 141157,
+        "categoryid": 979,
+        "score": 1.826,
+        "reason": "Collaborative match based on behavior in category 979"
+      },
+      {
+        "itemid": 359336,
+        "categoryid": 589,
+        "score": 1.76,
+        "reason": "Collaborative match based on behavior in category 589"
+      },
+      {
+        "itemid": 104432,
+        "categoryid": -1,
+        "score": 1.754,
+        "reason": "Collaborative match based on behavior in category -1"
+      },
+      {
+        "itemid": 449280,
+        "categoryid": 1173,
+        "score": 1.746,
+        "reason": "Collaborative match based on behavior in category 1173"
+      },
+      {
+        "itemid": 83175,
+        "categoryid": 973,
+        "score": 1.697,
+        "reason": "Collaborative match based on behavior in category 973"
+      }
+    ]
+  },
+  "6958": {
+    "visitor_id": 6958,
+    "segment": "Cart Abandoners",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 399192,
+        "categoryid": 196,
+        "score": 2.048,
+        "reason": "Collaborative match based on behavior in category 196"
+      },
+      {
+        "itemid": 336855,
+        "categoryid": 333,
+        "score": 1.672,
+        "reason": "Collaborative match based on behavior in category 333"
+      },
+      {
+        "itemid": 32591,
+        "categoryid": 618,
+        "score": 1.378,
+        "reason": "Collaborative match based on behavior in category 618"
+      },
+      {
+        "itemid": 130644,
+        "categoryid": 1578,
+        "score": 1.375,
+        "reason": "Collaborative match based on behavior in category 1578"
+      },
+      {
+        "itemid": 333566,
+        "categoryid": 1051,
+        "score": 1.357,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 185017,
+        "categoryid": 1384,
+        "score": 1.352,
+        "reason": "Collaborative match based on behavior in category 1384"
+      },
+      {
+        "itemid": 465951,
+        "categoryid": 1051,
+        "score": 1.347,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 127969,
+        "categoryid": 1051,
+        "score": 1.266,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 299440,
+        "categoryid": 1359,
+        "score": 1.262,
+        "reason": "Collaborative match based on behavior in category 1359"
+      },
+      {
+        "itemid": 50221,
+        "categoryid": 1542,
+        "score": 1.248,
+        "reason": "Collaborative match based on behavior in category 1542"
+      }
+    ]
+  },
+  "904351": {
+    "visitor_id": 904351,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 2.622,
+        "reason": "Collaborative match based on behavior in category 1037"
+      },
+      {
+        "itemid": 63102,
+        "categoryid": 333,
+        "score": 2.243,
+        "reason": "Collaborative match based on behavior in category 333"
+      },
+      {
+        "itemid": 369447,
+        "categoryid": 48,
+        "score": 2.127,
+        "reason": "Collaborative match based on behavior in category 48"
+      },
+      {
+        "itemid": 25235,
+        "categoryid": 1051,
+        "score": 1.913,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 320494,
+        "categoryid": 819,
+        "score": 1.866,
+        "reason": "Collaborative match based on behavior in category 819"
+      },
+      {
+        "itemid": 210451,
+        "categoryid": 269,
+        "score": 1.801,
+        "reason": "Collaborative match based on behavior in category 269"
+      },
+      {
+        "itemid": 214332,
+        "categoryid": 1593,
+        "score": 1.797,
+        "reason": "Collaborative match based on behavior in category 1593"
+      },
+      {
+        "itemid": 408139,
+        "categoryid": 646,
+        "score": 1.745,
+        "reason": "Collaborative match based on behavior in category 646"
+      },
+      {
+        "itemid": 344723,
+        "categoryid": 342,
+        "score": 1.706,
+        "reason": "Collaborative match based on behavior in category 342"
+      },
+      {
+        "itemid": 329576,
+        "categoryid": 212,
+        "score": 1.673,
+        "reason": "Collaborative match based on behavior in category 212"
+      }
+    ]
+  },
+  "430569": {
+    "visitor_id": 430569,
+    "segment": "Active Window Shoppers",
+    "strategy": "popularity",
+    "items": [
+      {
+        "itemid": 187946,
+        "categoryid": 1393,
+        "score": 1.0,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 370653,
+        "categoryid": 82,
+        "score": 0.95,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.9,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.85,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 0.8,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 0.75,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.7,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 298009,
+        "categoryid": 529,
+        "score": 0.65,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.6,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 37029,
+        "categoryid": 1483,
+        "score": 0.55,
+        "reason": "Top trending item in catalog"
+      }
+    ]
+  },
+  "748342": {
+    "visitor_id": 748342,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 247326,
+        "categoryid": 921,
+        "score": 1.107,
+        "reason": "Collaborative match based on behavior in category 921"
+      },
+      {
+        "itemid": 109589,
+        "categoryid": 1205,
+        "score": 1.028,
+        "reason": "Collaborative match based on behavior in category 1205"
+      },
+      {
+        "itemid": 272907,
+        "categoryid": 1529,
+        "score": 1.028,
+        "reason": "Collaborative match based on behavior in category 1529"
+      },
+      {
+        "itemid": 193968,
+        "categoryid": 646,
+        "score": 1.023,
+        "reason": "Collaborative match based on behavior in category 646"
+      },
+      {
+        "itemid": 277276,
+        "categoryid": 1172,
+        "score": 0.964,
+        "reason": "Collaborative match based on behavior in category 1172"
+      },
+      {
+        "itemid": 459056,
+        "categoryid": 1089,
+        "score": 0.91,
+        "reason": "Collaborative match based on behavior in category 1089"
+      },
+      {
+        "itemid": 96924,
+        "categoryid": 56,
+        "score": 0.909,
+        "reason": "Collaborative match based on behavior in category 56"
+      },
+      {
+        "itemid": 344071,
+        "categoryid": 589,
+        "score": 0.908,
+        "reason": "Collaborative match based on behavior in category 589"
+      },
+      {
+        "itemid": 11226,
+        "categoryid": 687,
+        "score": 0.898,
+        "reason": "Collaborative match based on behavior in category 687"
+      },
+      {
+        "itemid": 309821,
+        "categoryid": 56,
+        "score": 0.884,
+        "reason": "Collaborative match based on behavior in category 56"
+      }
+    ]
+  },
+  "260491": {
+    "visitor_id": 260491,
+    "segment": "Cart Abandoners",
+    "strategy": "popularity",
+    "items": [
+      {
+        "itemid": 187946,
+        "categoryid": 1393,
+        "score": 1.0,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 370653,
+        "categoryid": 82,
+        "score": 0.95,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.9,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.85,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 0.8,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 0.75,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.7,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 298009,
+        "categoryid": 529,
+        "score": 0.65,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.6,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 37029,
+        "categoryid": 1483,
+        "score": 0.55,
+        "reason": "Top trending item in catalog"
+      }
+    ]
+  },
+  "781099": {
+    "visitor_id": 781099,
+    "segment": "Active Window Shoppers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 30024,
+        "categoryid": 1295,
+        "score": 0.494,
+        "reason": "Collaborative match based on behavior in category 1295"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.485,
+        "reason": "Collaborative match based on behavior in category 1385"
+      },
+      {
+        "itemid": 320130,
+        "categoryid": 1483,
+        "score": 0.463,
+        "reason": "Collaborative match based on behavior in category 1483"
+      },
+      {
+        "itemid": 448690,
+        "categoryid": 926,
+        "score": 0.46,
+        "reason": "Collaborative match based on behavior in category 926"
+      },
+      {
+        "itemid": 457231,
+        "categoryid": 496,
+        "score": 0.453,
+        "reason": "Collaborative match based on behavior in category 496"
+      },
+      {
+        "itemid": 125831,
+        "categoryid": 484,
+        "score": 0.446,
+        "reason": "Collaborative match based on behavior in category 484"
+      },
+      {
+        "itemid": 421987,
+        "categoryid": 1098,
+        "score": 0.446,
+        "reason": "Collaborative match based on behavior in category 1098"
+      },
+      {
+        "itemid": 222957,
+        "categoryid": 1584,
+        "score": 0.434,
+        "reason": "Collaborative match based on behavior in category 1584"
+      },
+      {
+        "itemid": 175356,
+        "categoryid": 1173,
+        "score": 0.432,
+        "reason": "Collaborative match based on behavior in category 1173"
+      },
+      {
+        "itemid": 137352,
+        "categoryid": 707,
+        "score": 0.423,
+        "reason": "Collaborative match based on behavior in category 707"
+      }
+    ]
+  },
+  "973973": {
+    "visitor_id": 973973,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "popularity",
+    "items": [
+      {
+        "itemid": 187946,
+        "categoryid": 1393,
+        "score": 1.0,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 370653,
+        "categoryid": 82,
+        "score": 0.95,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.9,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.85,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 0.8,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 0.75,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.7,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 298009,
+        "categoryid": 529,
+        "score": 0.65,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.6,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 37029,
+        "categoryid": 1483,
+        "score": 0.55,
+        "reason": "Top trending item in catalog"
+      }
+    ]
+  },
+  "1233140": {
+    "visitor_id": 1233140,
+    "segment": "Cart Abandoners",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 1.413,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 309778,
+        "categoryid": 683,
+        "score": 1.101,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 367664,
+        "categoryid": 683,
+        "score": 1.073,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 374092,
+        "categoryid": 683,
+        "score": 0.941,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 430240,
+        "categoryid": 1393,
+        "score": 0.938,
+        "reason": "Collaborative match based on behavior in category 1393"
+      },
+      {
+        "itemid": 399031,
+        "categoryid": 683,
+        "score": 0.906,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 347414,
+        "categoryid": 683,
+        "score": 0.895,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 186214,
+        "categoryid": 683,
+        "score": 0.812,
+        "reason": "Collaborative match based on behavior in category 683"
+      },
+      {
+        "itemid": 256473,
+        "categoryid": 606,
+        "score": 0.807,
+        "reason": "Collaborative match based on behavior in category 606"
+      },
+      {
+        "itemid": 135900,
+        "categoryid": 683,
+        "score": 0.805,
+        "reason": "Collaborative match based on behavior in category 683"
+      }
+    ]
+  },
+  "563081": {
+    "visitor_id": 563081,
+    "segment": "Cart Abandoners",
+    "strategy": "popularity",
+    "items": [
+      {
+        "itemid": 187946,
+        "categoryid": 1393,
+        "score": 1.0,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 370653,
+        "categoryid": 82,
+        "score": 0.95,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.9,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.85,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 0.8,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 0.75,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.7,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 298009,
+        "categoryid": 529,
+        "score": 0.65,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.6,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 37029,
+        "categoryid": 1483,
+        "score": 0.55,
+        "reason": "Top trending item in catalog"
+      }
+    ]
+  },
+  "1252293": {
+    "visitor_id": 1252293,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 234255,
+        "categoryid": 1051,
+        "score": 0.595,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 219512,
+        "categoryid": 5,
+        "score": 0.562,
+        "reason": "Collaborative match based on behavior in category 5"
+      },
+      {
+        "itemid": 179601,
+        "categoryid": 1192,
+        "score": 0.557,
+        "reason": "Collaborative match based on behavior in category 1192"
+      },
+      {
+        "itemid": 384302,
+        "categoryid": 5,
+        "score": 0.53,
+        "reason": "Collaborative match based on behavior in category 5"
+      },
+      {
+        "itemid": 290999,
+        "categoryid": 1192,
+        "score": 0.526,
+        "reason": "Collaborative match based on behavior in category 1192"
+      },
+      {
+        "itemid": 231482,
+        "categoryid": 1051,
+        "score": 0.521,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 110529,
+        "categoryid": 5,
+        "score": 0.428,
+        "reason": "Collaborative match based on behavior in category 5"
+      },
+      {
+        "itemid": 64951,
+        "categoryid": 1051,
+        "score": 0.419,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 272455,
+        "categoryid": 558,
+        "score": 0.418,
+        "reason": "Collaborative match based on behavior in category 558"
+      },
+      {
+        "itemid": 158912,
+        "categoryid": 1404,
+        "score": 0.415,
+        "reason": "Collaborative match based on behavior in category 1404"
+      }
+    ]
+  },
+  "269618": {
+    "visitor_id": 269618,
+    "segment": "Active Window Shoppers",
+    "strategy": "popularity",
+    "items": [
+      {
+        "itemid": 187946,
+        "categoryid": 1393,
+        "score": 1.0,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 370653,
+        "categoryid": 82,
+        "score": 0.95,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.9,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.85,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 0.8,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 0.75,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.7,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 298009,
+        "categoryid": 529,
+        "score": 0.65,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.6,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 37029,
+        "categoryid": 1483,
+        "score": 0.55,
+        "reason": "Top trending item in catalog"
+      }
+    ]
+  },
+  "1071322": {
+    "visitor_id": 1071322,
+    "segment": "Active Window Shoppers",
+    "strategy": "popularity",
+    "items": [
+      {
+        "itemid": 187946,
+        "categoryid": 1393,
+        "score": 1.0,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 370653,
+        "categoryid": 82,
+        "score": 0.95,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.9,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.85,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 0.8,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 0.75,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.7,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 298009,
+        "categoryid": 529,
+        "score": 0.65,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.6,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 37029,
+        "categoryid": 1483,
+        "score": 0.55,
+        "reason": "Top trending item in catalog"
+      }
+    ]
+  },
+  "405190": {
+    "visitor_id": 405190,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "popularity",
+    "items": [
+      {
+        "itemid": 187946,
+        "categoryid": 1393,
+        "score": 1.0,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 370653,
+        "categoryid": 82,
+        "score": 0.95,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.9,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.85,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 0.8,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 0.75,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.7,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 298009,
+        "categoryid": 529,
+        "score": 0.65,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.6,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 37029,
+        "categoryid": 1483,
+        "score": 0.55,
+        "reason": "Top trending item in catalog"
+      }
+    ]
+  },
+  "1094913": {
+    "visitor_id": 1094913,
+    "segment": "Active Window Shoppers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 89044,
+        "categoryid": 1650,
+        "score": 0.605,
+        "reason": "Collaborative match based on behavior in category 1650"
+      },
+      {
+        "itemid": 80435,
+        "categoryid": 34,
+        "score": 0.586,
+        "reason": "Collaborative match based on behavior in category 34"
+      },
+      {
+        "itemid": 445351,
+        "categoryid": 1483,
+        "score": 0.58,
+        "reason": "Collaborative match based on behavior in category 1483"
+      },
+      {
+        "itemid": 303715,
+        "categoryid": 1650,
+        "score": 0.568,
+        "reason": "Collaborative match based on behavior in category 1650"
+      },
+      {
+        "itemid": 340375,
+        "categoryid": 34,
+        "score": 0.554,
+        "reason": "Collaborative match based on behavior in category 34"
+      },
+      {
+        "itemid": 869,
+        "categoryid": 1650,
+        "score": 0.542,
+        "reason": "Collaborative match based on behavior in category 1650"
+      },
+      {
+        "itemid": 303828,
+        "categoryid": 1650,
+        "score": 0.52,
+        "reason": "Collaborative match based on behavior in category 1650"
+      },
+      {
+        "itemid": 357054,
+        "categoryid": 1018,
+        "score": 0.509,
+        "reason": "Collaborative match based on behavior in category 1018"
+      },
+      {
+        "itemid": 103816,
+        "categoryid": 1393,
+        "score": 0.491,
+        "reason": "Collaborative match based on behavior in category 1393"
+      },
+      {
+        "itemid": 266900,
+        "categoryid": 1650,
+        "score": 0.479,
+        "reason": "Collaborative match based on behavior in category 1650"
+      }
+    ]
+  },
+  "1114222": {
+    "visitor_id": 1114222,
+    "segment": "Cart Abandoners",
+    "strategy": "popularity",
+    "items": [
+      {
+        "itemid": 187946,
+        "categoryid": 1393,
+        "score": 1.0,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 370653,
+        "categoryid": 82,
+        "score": 0.95,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.9,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.85,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 0.8,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 0.75,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.7,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 298009,
+        "categoryid": 529,
+        "score": 0.65,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.6,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 37029,
+        "categoryid": 1483,
+        "score": 0.55,
+        "reason": "Top trending item in catalog"
+      }
+    ]
+  },
+  "34417": {
+    "visitor_id": 34417,
+    "segment": "Active Window Shoppers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 30024,
+        "categoryid": 1295,
+        "score": 0.299,
+        "reason": "Collaborative match based on behavior in category 1295"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.293,
+        "reason": "Collaborative match based on behavior in category 1385"
+      },
+      {
+        "itemid": 320130,
+        "categoryid": 1483,
+        "score": 0.28,
+        "reason": "Collaborative match based on behavior in category 1483"
+      },
+      {
+        "itemid": 448690,
+        "categoryid": 926,
+        "score": 0.278,
+        "reason": "Collaborative match based on behavior in category 926"
+      },
+      {
+        "itemid": 457231,
+        "categoryid": 496,
+        "score": 0.274,
+        "reason": "Collaborative match based on behavior in category 496"
+      },
+      {
+        "itemid": 125831,
+        "categoryid": 484,
+        "score": 0.27,
+        "reason": "Collaborative match based on behavior in category 484"
+      },
+      {
+        "itemid": 421987,
+        "categoryid": 1098,
+        "score": 0.267,
+        "reason": "Collaborative match based on behavior in category 1098"
+      },
+      {
+        "itemid": 222957,
+        "categoryid": 1584,
+        "score": 0.262,
+        "reason": "Collaborative match based on behavior in category 1584"
+      },
+      {
+        "itemid": 175356,
+        "categoryid": 1173,
+        "score": 0.259,
+        "reason": "Collaborative match based on behavior in category 1173"
+      },
+      {
+        "itemid": 137352,
+        "categoryid": 707,
+        "score": 0.255,
+        "reason": "Collaborative match based on behavior in category 707"
+      }
+    ]
+  },
+  "1050989": {
+    "visitor_id": 1050989,
+    "segment": "Cart Abandoners",
+    "strategy": "popularity",
+    "items": [
+      {
+        "itemid": 187946,
+        "categoryid": 1393,
+        "score": 1.0,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 370653,
+        "categoryid": 82,
+        "score": 0.95,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.9,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.85,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 0.8,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 0.75,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.7,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 298009,
+        "categoryid": 529,
+        "score": 0.65,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.6,
+        "reason": "Top trending item in catalog"
+      },
+      {
+        "itemid": 37029,
+        "categoryid": 1483,
+        "score": 0.55,
+        "reason": "Top trending item in catalog"
+      }
+    ]
+  },
+  "457926": {
+    "visitor_id": 457926,
+    "segment": "Active Window Shoppers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 188698,
+        "categoryid": 1679,
+        "score": 0.868,
+        "reason": "Collaborative match based on behavior in category 1679"
+      },
+      {
+        "itemid": 457231,
+        "categoryid": 496,
+        "score": 0.866,
+        "reason": "Collaborative match based on behavior in category 496"
+      },
+      {
+        "itemid": 30024,
+        "categoryid": 1295,
+        "score": 0.78,
+        "reason": "Collaborative match based on behavior in category 1295"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.765,
+        "reason": "Collaborative match based on behavior in category 1385"
+      },
+      {
+        "itemid": 320130,
+        "categoryid": 1483,
+        "score": 0.73,
+        "reason": "Collaborative match based on behavior in category 1483"
+      },
+      {
+        "itemid": 448690,
+        "categoryid": 926,
+        "score": 0.726,
+        "reason": "Collaborative match based on behavior in category 926"
+      },
+      {
+        "itemid": 125831,
+        "categoryid": 484,
+        "score": 0.703,
+        "reason": "Collaborative match based on behavior in category 484"
+      },
+      {
+        "itemid": 222957,
+        "categoryid": 1584,
+        "score": 0.685,
+        "reason": "Collaborative match based on behavior in category 1584"
+      },
+      {
+        "itemid": 421987,
+        "categoryid": 1098,
+        "score": 0.683,
+        "reason": "Collaborative match based on behavior in category 1098"
+      },
+      {
+        "itemid": 137352,
+        "categoryid": 707,
+        "score": 0.666,
+        "reason": "Collaborative match based on behavior in category 707"
+      }
+    ]
+  },
+  "771125": {
+    "visitor_id": 771125,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.147,
+        "reason": "Collaborative match based on behavior in category 789"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.145,
+        "reason": "Collaborative match based on behavior in category 1265"
+      },
+      {
+        "itemid": 188698,
+        "categoryid": 1679,
+        "score": 0.142,
+        "reason": "Collaborative match based on behavior in category 1679"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.132,
+        "reason": "Collaborative match based on behavior in category 1625"
+      },
+      {
+        "itemid": 318333,
+        "categoryid": 1293,
+        "score": 0.13,
+        "reason": "Collaborative match based on behavior in category 1293"
+      },
+      {
+        "itemid": 450082,
+        "categoryid": 1205,
+        "score": 0.123,
+        "reason": "Collaborative match based on behavior in category 1205"
+      },
+      {
+        "itemid": 352723,
+        "categoryid": 491,
+        "score": 0.122,
+        "reason": "Collaborative match based on behavior in category 491"
+      },
+      {
+        "itemid": 346429,
+        "categoryid": 818,
+        "score": 0.118,
+        "reason": "Collaborative match based on behavior in category 818"
+      },
+      {
+        "itemid": 312728,
+        "categoryid": 1098,
+        "score": 0.118,
+        "reason": "Collaborative match based on behavior in category 1098"
+      },
+      {
+        "itemid": 374554,
+        "categoryid": 1051,
+        "score": 0.116,
+        "reason": "Collaborative match based on behavior in category 1051"
+      }
+    ]
+  },
+  "961010": {
+    "visitor_id": 961010,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "items": [
+      {
+        "itemid": 234255,
+        "categoryid": 1051,
+        "score": 0.0,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 219512,
+        "categoryid": 5,
+        "score": 0.0,
+        "reason": "Collaborative match based on behavior in category 5"
+      },
+      {
+        "itemid": 179601,
+        "categoryid": 1192,
+        "score": 0.0,
+        "reason": "Collaborative match based on behavior in category 1192"
+      },
+      {
+        "itemid": 231482,
+        "categoryid": 1051,
+        "score": 0.0,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 384302,
+        "categoryid": 5,
+        "score": 0.0,
+        "reason": "Collaborative match based on behavior in category 5"
+      },
+      {
+        "itemid": 290999,
+        "categoryid": 1192,
+        "score": 0.0,
+        "reason": "Collaborative match based on behavior in category 1192"
+      },
+      {
+        "itemid": 272455,
+        "categoryid": 558,
+        "score": 0.0,
+        "reason": "Collaborative match based on behavior in category 558"
+      },
+      {
+        "itemid": 457045,
+        "categoryid": 1051,
+        "score": 0.0,
+        "reason": "Collaborative match based on behavior in category 1051"
+      },
+      {
+        "itemid": 158912,
+        "categoryid": 1404,
+        "score": 0.0,
+        "reason": "Collaborative match based on behavior in category 1404"
+      },
+      {
+        "itemid": 441852,
+        "categoryid": 959,
+        "score": 0.0,
+        "reason": "Collaborative match based on behavior in category 959"
+      }
+    ]
+  },
+  "default": {
+    "visitor_id": "default",
+    "segment": "New Visitor",
+    "strategy": "popularity",
+    "items": [
+      {
+        "itemid": 187946,
+        "categoryid": 1393,
+        "score": 1.0,
+        "reason": "Top trending item across all shoppers (Cold start fallback)"
+      },
+      {
+        "itemid": 370653,
+        "categoryid": 82,
+        "score": 0.95,
+        "reason": "Top trending item across all shoppers (Cold start fallback)"
+      },
+      {
+        "itemid": 5411,
+        "categoryid": 789,
+        "score": 0.9,
+        "reason": "Top trending item across all shoppers (Cold start fallback)"
+      },
+      {
+        "itemid": 462188,
+        "categoryid": 1385,
+        "score": 0.85,
+        "reason": "Top trending item across all shoppers (Cold start fallback)"
+      },
+      {
+        "itemid": 461686,
+        "categoryid": 1037,
+        "score": 0.8,
+        "reason": "Top trending item across all shoppers (Cold start fallback)"
+      },
+      {
+        "itemid": 257040,
+        "categoryid": 683,
+        "score": 0.75,
+        "reason": "Top trending item across all shoppers (Cold start fallback)"
+      },
+      {
+        "itemid": 111530,
+        "categoryid": 1625,
+        "score": 0.7,
+        "reason": "Top trending item across all shoppers (Cold start fallback)"
+      },
+      {
+        "itemid": 298009,
+        "categoryid": 529,
+        "score": 0.65,
+        "reason": "Top trending item across all shoppers (Cold start fallback)"
+      },
+      {
+        "itemid": 29196,
+        "categoryid": 1265,
+        "score": 0.6,
+        "reason": "Top trending item across all shoppers (Cold start fallback)"
+      },
+      {
+        "itemid": 37029,
+        "categoryid": 1483,
+        "score": 0.55,
+        "reason": "Top trending item across all shoppers (Cold start fallback)"
+      }
+    ]
+  }
+}

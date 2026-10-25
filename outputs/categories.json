@@ -1,0 +1,402 @@
+[
+  {
+    "categoryid": 1051,
+    "parentid": 955,
+    "views": 3710,
+    "carts": 85,
+    "purchases": 29,
+    "conversion": 0.7817
+  },
+  {
+    "categoryid": 1483,
+    "parentid": 561,
+    "views": 3516,
+    "carts": 84,
+    "purchases": 40,
+    "conversion": 1.1377
+  },
+  {
+    "categoryid": 491,
+    "parentid": 679,
+    "views": 2933,
+    "carts": 67,
+    "purchases": 7,
+    "conversion": 0.2387
+  },
+  {
+    "categoryid": 342,
+    "parentid": 500,
+    "views": 2252,
+    "carts": 60,
+    "purchases": 19,
+    "conversion": 0.8437
+  },
+  {
+    "categoryid": 959,
+    "parentid": 1095,
+    "views": 2242,
+    "carts": 60,
+    "purchases": 19,
+    "conversion": 0.8475
+  },
+  {
+    "categoryid": 683,
+    "parentid": 1606,
+    "views": 1986,
+    "carts": 42,
+    "purchases": 11,
+    "conversion": 0.5539
+  },
+  {
+    "categoryid": 1279,
+    "parentid": 1606,
+    "views": 1831,
+    "carts": 37,
+    "purchases": 8,
+    "conversion": 0.4369
+  },
+  {
+    "categoryid": 646,
+    "parentid": 1606,
+    "views": 1464,
+    "carts": 25,
+    "purchases": 3,
+    "conversion": 0.2049
+  },
+  {
+    "categoryid": 5,
+    "parentid": 1637,
+    "views": 1437,
+    "carts": 32,
+    "purchases": 11,
+    "conversion": 0.7655
+  },
+  {
+    "categoryid": 48,
+    "parentid": 500,
+    "views": 1361,
+    "carts": 19,
+    "purchases": 4,
+    "conversion": 0.2939
+  },
+  {
+    "categoryid": 1135,
+    "parentid": 1329,
+    "views": 1259,
+    "carts": 32,
+    "purchases": 10,
+    "conversion": 0.7943
+  },
+  {
+    "categoryid": 196,
+    "parentid": 1667,
+    "views": 1230,
+    "carts": 51,
+    "purchases": 16,
+    "conversion": 1.3008
+  },
+  {
+    "categoryid": 1173,
+    "parentid": 805,
+    "views": 1212,
+    "carts": 37,
+    "purchases": 8,
+    "conversion": 0.6601
+  },
+  {
+    "categoryid": 333,
+    "parentid": 1497,
+    "views": 1179,
+    "carts": 19,
+    "purchases": 6,
+    "conversion": 0.5089
+  },
+  {
+    "categoryid": 1578,
+    "parentid": 1249,
+    "views": 1025,
+    "carts": 30,
+    "purchases": 10,
+    "conversion": 0.9756
+  },
+  {
+    "categoryid": 589,
+    "parentid": 1308,
+    "views": 1022,
+    "carts": 39,
+    "purchases": 14,
+    "conversion": 1.3699
+  },
+  {
+    "categoryid": 84,
+    "parentid": 1308,
+    "views": 987,
+    "carts": 44,
+    "purchases": 12,
+    "conversion": 1.2158
+  },
+  {
+    "categoryid": 1221,
+    "parentid": 1426,
+    "views": 973,
+    "carts": 33,
+    "purchases": 15,
+    "conversion": 1.5416
+  },
+  {
+    "categoryid": 1248,
+    "parentid": 1368,
+    "views": 950,
+    "carts": 25,
+    "purchases": 6,
+    "conversion": 0.6316
+  },
+  {
+    "categoryid": 1650,
+    "parentid": 1426,
+    "views": 919,
+    "carts": 19,
+    "purchases": 6,
+    "conversion": 0.6529
+  },
+  {
+    "categoryid": 242,
+    "parentid": 1531,
+    "views": 881,
+    "carts": 28,
+    "purchases": 3,
+    "conversion": 0.3405
+  },
+  {
+    "categoryid": 1375,
+    "parentid": 805,
+    "views": 855,
+    "carts": 17,
+    "purchases": 6,
+    "conversion": 0.7018
+  },
+  {
+    "categoryid": 1393,
+    "parentid": 1383,
+    "views": 754,
+    "carts": 27,
+    "purchases": 13,
+    "conversion": 1.7241
+  },
+  {
+    "categoryid": 707,
+    "parentid": 561,
+    "views": 753,
+    "carts": 27,
+    "purchases": 7,
+    "conversion": 0.9296
+  },
+  {
+    "categoryid": 1404,
+    "parentid": 593,
+    "views": 753,
+    "carts": 10,
+    "purchases": 2,
+    "conversion": 0.2656
+  },
+  {
+    "categoryid": 209,
+    "parentid": 293,
+    "views": 728,
+    "carts": 14,
+    "purchases": 7,
+    "conversion": 0.9615
+  },
+  {
+    "categoryid": 1625,
+    "parentid": 1141,
+    "views": 724,
+    "carts": 20,
+    "purchases": 7,
+    "conversion": 0.9669
+  },
+  {
+    "categoryid": 926,
+    "parentid": 852,
+    "views": 713,
+    "carts": 14,
+    "purchases": 6,
+    "conversion": 0.8415
+  },
+  {
+    "categoryid": 1477,
+    "parentid": 206,
+    "views": 704,
+    "carts": 4,
+    "purchases": 1,
+    "conversion": 0.142
+  },
+  {
+    "categoryid": 1233,
+    "parentid": 1257,
+    "views": 647,
+    "carts": 9,
+    "purchases": 1,
+    "conversion": 0.1546
+  },
+  {
+    "categoryid": 65,
+    "parentid": 293,
+    "views": 646,
+    "carts": 12,
+    "purchases": 3,
+    "conversion": 0.4644
+  },
+  {
+    "categoryid": 499,
+    "parentid": 986,
+    "views": 632,
+    "carts": 15,
+    "purchases": 1,
+    "conversion": 0.1582
+  },
+  {
+    "categoryid": 1542,
+    "parentid": 745,
+    "views": 627,
+    "carts": 33,
+    "purchases": 18,
+    "conversion": 2.8708
+  },
+  {
+    "categoryid": 1219,
+    "parentid": 121,
+    "views": 624,
+    "carts": 18,
+    "purchases": 4,
+    "conversion": 0.641
+  },
+  {
+    "categoryid": 858,
+    "parentid": 1426,
+    "views": 613,
+    "carts": 31,
+    "purchases": 7,
+    "conversion": 1.1419
+  },
+  {
+    "categoryid": 1192,
+    "parentid": 955,
+    "views": 613,
+    "carts": 18,
+    "purchases": 7,
+    "conversion": 1.1419
+  },
+  {
+    "categoryid": 618,
+    "parentid": 105,
+    "views": 610,
+    "carts": 29,
+    "purchases": 16,
+    "conversion": 2.623
+  },
+  {
+    "categoryid": 429,
+    "parentid": 113,
+    "views": 606,
+    "carts": 12,
+    "purchases": 5,
+    "conversion": 0.8251
+  },
+  {
+    "categoryid": 928,
+    "parentid": 20,
+    "views": 602,
+    "carts": 12,
+    "purchases": 5,
+    "conversion": 0.8306
+  },
+  {
+    "categoryid": 56,
+    "parentid": 1497,
+    "views": 594,
+    "carts": 11,
+    "purchases": 5,
+    "conversion": 0.8418
+  },
+  {
+    "categoryid": 1244,
+    "parentid": 500,
+    "views": 592,
+    "carts": 12,
+    "purchases": 6,
+    "conversion": 1.0135
+  },
+  {
+    "categoryid": 828,
+    "parentid": 293,
+    "views": 578,
+    "carts": 7,
+    "purchases": 1,
+    "conversion": 0.173
+  },
+  {
+    "categoryid": 769,
+    "parentid": 587,
+    "views": 567,
+    "carts": 33,
+    "purchases": 2,
+    "conversion": 0.3527
+  },
+  {
+    "categoryid": 126,
+    "parentid": 871,
+    "views": 565,
+    "carts": 27,
+    "purchases": 12,
+    "conversion": 2.1239
+  },
+  {
+    "categoryid": 64,
+    "parentid": 206,
+    "views": 564,
+    "carts": 9,
+    "purchases": 2,
+    "conversion": 0.3546
+  },
+  {
+    "categoryid": 421,
+    "parentid": 1424,
+    "views": 558,
+    "carts": 11,
+    "purchases": 4,
+    "conversion": 0.7168
+  },
+  {
+    "categoryid": 730,
+    "parentid": 1482,
+    "views": 556,
+    "carts": 17,
+    "purchases": 3,
+    "conversion": 0.5396
+  },
+  {
+    "categoryid": 1205,
+    "parentid": 580,
+    "views": 554,
+    "carts": 25,
+    "purchases": 16,
+    "conversion": 2.8881
+  },
+  {
+    "categoryid": 1117,
+    "parentid": 14,
+    "views": 552,
+    "carts": 18,
+    "purchases": 3,
+    "conversion": 0.5435
+  },
+  {
+    "categoryid": 34,
+    "parentid": 1368,
+    "views": 542,
+    "carts": 13,
+    "purchases": 9,
+    "conversion": 1.6605
+  }
+]

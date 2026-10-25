@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "processed_at": "2026-10-02T20:10:39.092853",
+  "input_directory": "data/samples",
+  "output_directory": "data/processed/events_parquet",
+  "mode": "local",
+  "total_events": 141128,
+  "unique_visitors": 70580,
+  "unique_items": 55412,
+  "unique_sessions": 88725
+}

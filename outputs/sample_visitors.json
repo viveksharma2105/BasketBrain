@@ -1,0 +1,170 @@
+[
+  {
+    "visitor_id": 76757,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "label": "Visitor #76757 (High-Intent VIP Buyers)"
+  },
+  {
+    "visitor_id": 638482,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "label": "Visitor #638482 (High-Intent VIP Buyers)"
+  },
+  {
+    "visitor_id": 757355,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "label": "Visitor #757355 (High-Intent VIP Buyers)"
+  },
+  {
+    "visitor_id": 77390,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "label": "Visitor #77390 (High-Intent VIP Buyers)"
+  },
+  {
+    "visitor_id": 38015,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "label": "Visitor #38015 (High-Intent VIP Buyers)"
+  },
+  {
+    "visitor_id": 468309,
+    "segment": "High-Intent VIP Buyers",
+    "strategy": "als",
+    "label": "Visitor #468309 (High-Intent VIP Buyers)"
+  },
+  {
+    "visitor_id": 1093035,
+    "segment": "Active Window Shoppers",
+    "strategy": "als",
+    "label": "Visitor #1093035 (Active Window Shoppers)"
+  },
+  {
+    "visitor_id": 1313381,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "label": "Visitor #1313381 (One-Time Casual Explorers)"
+  },
+  {
+    "visitor_id": 6958,
+    "segment": "Cart Abandoners",
+    "strategy": "als",
+    "label": "Visitor #6958 (Cart Abandoners)"
+  },
+  {
+    "visitor_id": 904351,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "label": "Visitor #904351 (One-Time Casual Explorers)"
+  },
+  {
+    "visitor_id": 430569,
+    "segment": "Active Window Shoppers",
+    "strategy": "popularity",
+    "label": "Visitor #430569 (Active Window Shoppers)"
+  },
+  {
+    "visitor_id": 748342,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "label": "Visitor #748342 (One-Time Casual Explorers)"
+  },
+  {
+    "visitor_id": 260491,
+    "segment": "Cart Abandoners",
+    "strategy": "popularity",
+    "label": "Visitor #260491 (Cart Abandoners)"
+  },
+  {
+    "visitor_id": 781099,
+    "segment": "Active Window Shoppers",
+    "strategy": "als",
+    "label": "Visitor #781099 (Active Window Shoppers)"
+  },
+  {
+    "visitor_id": 973973,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "popularity",
+    "label": "Visitor #973973 (One-Time Casual Explorers)"
+  },
+  {
+    "visitor_id": 1233140,
+    "segment": "Cart Abandoners",
+    "strategy": "als",
+    "label": "Visitor #1233140 (Cart Abandoners)"
+  },
+  {
+    "visitor_id": 563081,
+    "segment": "Cart Abandoners",
+    "strategy": "popularity",
+    "label": "Visitor #563081 (Cart Abandoners)"
+  },
+  {
+    "visitor_id": 1252293,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "label": "Visitor #1252293 (One-Time Casual Explorers)"
+  },
+  {
+    "visitor_id": 269618,
+    "segment": "Active Window Shoppers",
+    "strategy": "popularity",
+    "label": "Visitor #269618 (Active Window Shoppers)"
+  },
+  {
+    "visitor_id": 1071322,
+    "segment": "Active Window Shoppers",
+    "strategy": "popularity",
+    "label": "Visitor #1071322 (Active Window Shoppers)"
+  },
+  {
+    "visitor_id": 405190,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "popularity",
+    "label": "Visitor #405190 (One-Time Casual Explorers)"
+  },
+  {
+    "visitor_id": 1094913,
+    "segment": "Active Window Shoppers",
+    "strategy": "als",
+    "label": "Visitor #1094913 (Active Window Shoppers)"
+  },
+  {
+    "visitor_id": 1114222,
+    "segment": "Cart Abandoners",
+    "strategy": "popularity",
+    "label": "Visitor #1114222 (Cart Abandoners)"
+  },
+  {
+    "visitor_id": 34417,
+    "segment": "Active Window Shoppers",
+    "strategy": "als",
+    "label": "Visitor #34417 (Active Window Shoppers)"
+  },
+  {
+    "visitor_id": 1050989,
+    "segment": "Cart Abandoners",
+    "strategy": "popularity",
+    "label": "Visitor #1050989 (Cart Abandoners)"
+  },
+  {
+    "visitor_id": 457926,
+    "segment": "Active Window Shoppers",
+    "strategy": "als",
+    "label": "Visitor #457926 (Active Window Shoppers)"
+  },
+  {
+    "visitor_id": 771125,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "label": "Visitor #771125 (One-Time Casual Explorers)"
+  },
+  {
+    "visitor_id": 961010,
+    "segment": "One-Time Casual Explorers",
+    "strategy": "als",
+    "label": "Visitor #961010 (One-Time Casual Explorers)"
+  }
+]

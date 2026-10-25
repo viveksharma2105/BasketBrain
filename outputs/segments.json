@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "cluster_index": 3,
+    "label": "High-Intent VIP Buyers",
+    "size": 6,
+    "share": 0.0001,
+    "avg_recency": 49.94,
+    "avg_frequency": 176.33,
+    "avg_score": 1587.0,
+    "description": "High frequency shoppers with multiple carts and purchases. High lifetime value."
+  },
+  {
+    "id": 1,
+    "cluster_index": 2,
+    "label": "Cart Abandoners",
+    "size": 653,
+    "share": 0.0093,
+    "avg_recency": 66.39,
+    "avg_frequency": 1.2,
+    "avg_score": 9.06,
+    "description": "Strong purchase intent with frequent cart additions but incomplete checkout."
+  },
+  {
+    "id": 2,
+    "cluster_index": 0,
+    "label": "Active Window Shoppers",
+    "size": 32782,
+    "share": 0.4645,
+    "avg_recency": 103.71,
+    "avg_frequency": 1.18,
+    "avg_score": 1.89,
+    "description": "Regular visitors browsing multiple products and categories without adding to cart."
+  },
+  {
+    "id": 3,
+    "cluster_index": 1,
+    "label": "One-Time Casual Explorers",
+    "size": 37139,
+    "share": 0.5262,
+    "avg_recency": 36.6,
+    "avg_frequency": 1.3,
+    "avg_score": 2.06,
+    "description": "Single-session visitors with low interaction depth and higher recency latency."
+  }
+]

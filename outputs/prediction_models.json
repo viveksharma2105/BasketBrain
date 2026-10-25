@@ -1,0 +1,63 @@
+{
+  "prediction_models": [
+    {
+      "model": "Logistic Regression",
+      "auc_roc": 0.9517,
+      "auc_pr": 0.3058,
+      "f1": 0.9851,
+      "recall": 0.9801,
+      "precision": 0.9928
+    },
+    {
+      "model": "Random Forest",
+      "auc_roc": 0.9495,
+      "auc_pr": 0.3435,
+      "f1": 0.9876,
+      "recall": 0.9917,
+      "precision": 0.9835
+    },
+    {
+      "model": "Gradient Boosted Trees",
+      "auc_roc": 0.9402,
+      "auc_pr": 0.3556,
+      "f1": 0.9889,
+      "recall": 0.9916,
+      "precision": 0.9882
+    }
+  ],
+  "best_prediction_model": "Gradient Boosted Trees",
+  "feature_importance": [
+    {
+      "feature": "carts_count",
+      "importance": 0.7105
+    },
+    {
+      "feature": "views_count",
+      "importance": 0.0906
+    },
+    {
+      "feature": "session_duration_min",
+      "importance": 0.0596
+    },
+    {
+      "feature": "is_repeat_visitor",
+      "importance": 0.0486
+    },
+    {
+      "feature": "hour_of_day",
+      "importance": 0.0444
+    },
+    {
+      "feature": "unique_items",
+      "importance": 0.0202
+    },
+    {
+      "feature": "day_of_week",
+      "importance": 0.0196
+    },
+    {
+      "feature": "is_weekend",
+      "importance": 0.0065
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "hive_vs_spark": [
+    {
+      "query": "Funnel Aggregation",
+      "spark_seconds": 0.855,
+      "hive_seconds": 11.75,
+      "speedup": 13.7
+    },
+    {
+      "query": "Multi-Table Join",
+      "spark_seconds": 1.356,
+      "hive_seconds": 20.17,
+      "speedup": 14.9
+    },
+    {
+      "query": "Window Sessionization",
+      "spark_seconds": 0.83,
+      "hive_seconds": 22.07,
+      "speedup": 26.6
+    }
+  ],
+  "scalability": [
+    {
+      "workers": 1,
+      "data_scale": "1x",
+      "data_rows_est": "1x (~141K rows)",
+      "seconds": 1.41
+    },
+    {
+      "workers": 1,
+      "data_scale": "10x",
+      "data_rows_est": "10x (~1.41M rows)",
+      "seconds": 6.33
+    },
+    {
+      "workers": 1,
+      "data_scale": "50x",
+      "data_rows_est": "50x (~7.05M rows)",
+      "seconds": 20.41
+    },
+    {
+      "workers": 2,
+      "data_scale": "1x",
+      "data_rows_est": "1x (~141K rows)",
+      "seconds": 0.42
+    },
+    {
+      "workers": 2,
+      "data_scale": "10x",
+      "data_rows_est": "10x (~1.41M rows)",
+      "seconds": 2.81
+    },
+    {
+      "workers": 2,
+      "data_scale": "50x",
+      "data_rows_est": "50x (~7.05M rows)",
+      "seconds": 12.33
+    },
+    {
+      "workers": 4,
+      "data_scale": "1x",
+      "data_rows_est": "1x (~141K rows)",
+      "seconds": 0.44
+    },
+    {
+      "workers": 4,
+      "data_scale": "10x",
+      "data_rows_est": "10x (~1.41M rows)",
+      "seconds": 2.13
+    },
+    {
+      "workers": 4,
+      "data_scale": "50x",
+      "data_rows_est": "50x (~7.05M rows)",
+      "seconds": 8.78
+    }
+  ],
+  "note": "10x and 50x datasets generated via synthetic scale-up replication. Hive runtimes reflect Dataproc Hive-on-MR/Tez benchmarks."
+}

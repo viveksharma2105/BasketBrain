@@ -1,0 +1,17 @@
+{
+  "total_events": 141128,
+  "visitors": 70580,
+  "items": 55412,
+  "sessions": 88725,
+  "date_range": {
+    "start": "2015-05-03",
+    "end": "2015-09-18"
+  },
+  "conversion_rate": 0.00936,
+  "cart_abandonment_rate": 0.7158,
+  "counts": {
+    "views": 136111,
+    "carts": 3743,
+    "purchases": 1274
+  }
+}

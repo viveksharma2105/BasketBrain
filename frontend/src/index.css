@@ -1,0 +1,218 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+
+    --card: 240 10% 4.9%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 240 10% 4.9%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 158 64% 52%; /* Emerald accent */
+    --primary-foreground: 240 10% 3.9%;
+
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 158 64% 52%;
+
+    --radius: 0.75rem;
+
+    --chart-1: 158 64% 52%;  /* Emerald */
+    --chart-2: 217 91% 60%;  /* Indigo/Blue */
+    --chart-3: 262 83% 58%;  /* Purple */
+    --chart-4: 38 92% 50%;   /* Amber */
+    --chart-5: 340 82% 52%;  /* Rose */
+  }
+
+  .light {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+
+    --primary: 158 64% 42%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 158 64% 42%;
+
+    --chart-1: 158 64% 42%;
+    --chart-2: 217 91% 55%;
+    --chart-3: 262 83% 50%;
+    --chart-4: 38 92% 45%;
+    --chart-5: 340 82% 48%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+    scroll-behavior: smooth;
+  }
+  html {
+    scroll-behavior: smooth;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-emerald-500/25 selection:text-emerald-200;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Custom aesthetic smooth scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted-foreground) / 0.2);
+  border-radius: 9999px;
+  transition: background-color 0.25s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--primary) / 0.5);
+}
+
+/* Ambient engineering grid background */
+.bg-ambient-grid {
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.light .bg-ambient-grid {
+  background-image: 
+    linear-gradient(to right, rgba(0, 0, 0, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.04) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+/* Glowing card interactive styles */
+.glow-card {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glow-card:hover {
+  border-color: rgba(16, 185, 129, 0.4);
+  box-shadow: 0 16px 36px -12px rgba(0, 0, 0, 0.8), 0 0 25px -4px rgba(16, 185, 129, 0.18);
+  transform: translateY(-2px);
+}
+
+/* Subtle glow badges and accents */
+.glow-emerald {
+  box-shadow: 0 0 24px -4px rgba(16, 185, 129, 0.3);
+}
+
+.glow-indigo {
+  box-shadow: 0 0 24px -4px rgba(99, 102, 241, 0.3);
+}
+
+/* Keyframe animations */
+@keyframes floatGentle {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-5px); }
+}
+
+@keyframes floatOrbs {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(25px, -20px) scale(1.08); }
+}
+
+@keyframes pulseGlowRing {
+  0%, 100% { opacity: 0.8; transform: scale(1); }
+  50% { opacity: 0.25; transform: scale(1.2); }
+}
+
+@keyframes pageEnter {
+  0% {
+    opacity: 0;
+    transform: translateY(8px) scale(0.998);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-page-enter {
+  animation: pageEnter 0.32s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  will-change: opacity, transform;
+}
+
+.animate-float {
+  animation: floatGentle 4s ease-in-out infinite;
+}
+
+.animate-pulse-ring {
+  animation: pulseGlowRing 2.5s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+.animate-orb-slow {
+  animation: floatOrbs 20s ease-in-out infinite;
+}
+
+.animate-orb-reverse {
+  animation: floatOrbs 24s ease-in-out infinite reverse;
+}
+
+/* Snappy cascade animation utilities for card entrance */
+.cascade-enter-1 { animation: cascadeUp 0.35s ease-out 0.02s backwards; }
+.cascade-enter-2 { animation: cascadeUp 0.35s ease-out 0.05s backwards; }
+.cascade-enter-3 { animation: cascadeUp 0.35s ease-out 0.08s backwards; }
+.cascade-enter-4 { animation: cascadeUp 0.35s ease-out 0.11s backwards; }
+.cascade-enter-5 { animation: cascadeUp 0.35s ease-out 0.14s backwards; }
+.cascade-enter-6 { animation: cascadeUp 0.35s ease-out 0.17s backwards; }
+
+@keyframes cascadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+

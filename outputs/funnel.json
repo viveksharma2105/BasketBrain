@@ -1,0 +1,171 @@
+{
+  "stages": [
+    {
+      "name": "views",
+      "count": 136111,
+      "rate_from_previous": 1.0
+    },
+    {
+      "name": "addtocart",
+      "count": 3743,
+      "rate_from_previous": 0.0275
+    },
+    {
+      "name": "transaction",
+      "count": 1274,
+      "rate_from_previous": 0.3404
+    }
+  ],
+  "by_category": [
+    {
+      "categoryid": 1051,
+      "parentid": 955,
+      "views": 3710,
+      "carts": 85,
+      "purchases": 29,
+      "view_to_cart_rate": 0.0229,
+      "cart_to_purchase_rate": 0.3412,
+      "overall_conversion": 0.0078
+    },
+    {
+      "categoryid": 1483,
+      "parentid": 561,
+      "views": 3516,
+      "carts": 84,
+      "purchases": 40,
+      "view_to_cart_rate": 0.0239,
+      "cart_to_purchase_rate": 0.4762,
+      "overall_conversion": 0.0114
+    },
+    {
+      "categoryid": 491,
+      "parentid": 679,
+      "views": 2933,
+      "carts": 67,
+      "purchases": 7,
+      "view_to_cart_rate": 0.0228,
+      "cart_to_purchase_rate": 0.1045,
+      "overall_conversion": 0.0024
+    },
+    {
+      "categoryid": 342,
+      "parentid": 500,
+      "views": 2252,
+      "carts": 60,
+      "purchases": 19,
+      "view_to_cart_rate": 0.0266,
+      "cart_to_purchase_rate": 0.3167,
+      "overall_conversion": 0.0084
+    },
+    {
+      "categoryid": 959,
+      "parentid": 1095,
+      "views": 2242,
+      "carts": 60,
+      "purchases": 19,
+      "view_to_cart_rate": 0.0268,
+      "cart_to_purchase_rate": 0.3167,
+      "overall_conversion": 0.0085
+    },
+    {
+      "categoryid": 683,
+      "parentid": 1606,
+      "views": 1986,
+      "carts": 42,
+      "purchases": 11,
+      "view_to_cart_rate": 0.0211,
+      "cart_to_purchase_rate": 0.2619,
+      "overall_conversion": 0.0055
+    },
+    {
+      "categoryid": 1279,
+      "parentid": 1606,
+      "views": 1831,
+      "carts": 37,
+      "purchases": 8,
+      "view_to_cart_rate": 0.0202,
+      "cart_to_purchase_rate": 0.2162,
+      "overall_conversion": 0.0044
+    },
+    {
+      "categoryid": 646,
+      "parentid": 1606,
+      "views": 1464,
+      "carts": 25,
+      "purchases": 3,
+      "view_to_cart_rate": 0.0171,
+      "cart_to_purchase_rate": 0.12,
+      "overall_conversion": 0.002
+    },
+    {
+      "categoryid": 5,
+      "parentid": 1637,
+      "views": 1437,
+      "carts": 32,
+      "purchases": 11,
+      "view_to_cart_rate": 0.0223,
+      "cart_to_purchase_rate": 0.3438,
+      "overall_conversion": 0.0077
+    },
+    {
+      "categoryid": 48,
+      "parentid": 500,
+      "views": 1361,
+      "carts": 19,
+      "purchases": 4,
+      "view_to_cart_rate": 0.014,
+      "cart_to_purchase_rate": 0.2105,
+      "overall_conversion": 0.0029
+    },
+    {
+      "categoryid": 1135,
+      "parentid": 1329,
+      "views": 1259,
+      "carts": 32,
+      "purchases": 10,
+      "view_to_cart_rate": 0.0254,
+      "cart_to_purchase_rate": 0.3125,
+      "overall_conversion": 0.0079
+    },
+    {
+      "categoryid": 196,
+      "parentid": 1667,
+      "views": 1230,
+      "carts": 51,
+      "purchases": 16,
+      "view_to_cart_rate": 0.0415,
+      "cart_to_purchase_rate": 0.3137,
+      "overall_conversion": 0.013
+    },
+    {
+      "categoryid": 1173,
+      "parentid": 805,
+      "views": 1212,
+      "carts": 37,
+      "purchases": 8,
+      "view_to_cart_rate": 0.0305,
+      "cart_to_purchase_rate": 0.2162,
+      "overall_conversion": 0.0066
+    },
+    {
+      "categoryid": 333,
+      "parentid": 1497,
+      "views": 1179,
+      "carts": 19,
+      "purchases": 6,
+      "view_to_cart_rate": 0.0161,
+      "cart_to_purchase_rate": 0.3158,
+      "overall_conversion": 0.0051
+    },
+    {
+      "categoryid": 1578,
+      "parentid": 1249,
+      "views": 1025,
+      "carts": 30,
+      "purchases": 10,
+      "view_to_cart_rate": 0.0293,
+      "cart_to_purchase_rate": 0.3333,
+      "overall_conversion": 0.0098
+    }
+  ]
+}
